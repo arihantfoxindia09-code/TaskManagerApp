@@ -1,2 +1,2 @@
-pip install flet
+
 pip install db-sqlite3
