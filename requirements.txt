@@ -1,2 +1,2 @@
-
-pip install db-sqlite3
+flet
+db-sqlite3
